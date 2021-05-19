@@ -1,0 +1,22 @@
+.drop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 800px;
+    height: 200px;
+    border: 4px dashed blue;
+}
+
+.uploadIcon {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background: url(../dropzone/upload.svg) no-repeat center center;
+    background-size: 100%;
+}
+
+.btnUpload {
+    justify-content: right;
+    margin-top: 10px;
+}

@@ -1,0 +1,17 @@
+html, body {
+    overflow: hidden;
+  }
+
+img{
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+}
+
+.container-custom{
+  padding-top: 20%;
+}
+
+.row-custom{
+  margin-bottom: 2%;
+}
